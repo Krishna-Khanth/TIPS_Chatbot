@@ -1,0 +1,59 @@
+'p' - pattern
+'r' - response
+
+// Admission
+1. counsellor
+p: "counsellor -", "- counselling", "contact - counsellor", "admission help", "help for admission"
+// replace '-' with course name
+r: "Please Contact Admission counsellor of - at -."
+    BCA - 9654604666
+    ballb - 9315911716
+    bjmc - 9315911707
+    bba - 9315911713
+
+2. syllabus
+p: "what is syllabus", "syllabus", "view syllabus", "where is syllabus"
+r: "To view syllabus visit <a href = 'https://www.tips.edu.in/syllabus' target ='_blank'>here</a>"
+
+3. placement
+p: "placement opportunities", "view placement", "placement", "future jobs", "future scope"
+r: "<a href = 'https://tips.edu.in/tipsian-success-stories' target ='_blank'>Success Stories</a> of our College"
+
+4. fees
+p: "fee structure", "about fees", "what is fee of"
+r: "To see complete fees structure please visit <a href = 'https://tips.edu.in/fee-structure' target ='_blank'>here</a>."
+
+// Student cell
+1. degree
+p: "degree", "when will we get degree", "i need degree", "i did not got degree"
+r: "Please contact faculty for any query regarding degree."
+
+2. correction of name
+p: "correction of name", "change name", "wrong name"
+r: "Correction of Name <br>Please follow Following instructions: <br>Hand written Application + 500 Rs Challan - To be submitted in the university, Along with 10th Certificate, 12th marksheet, All Xerox of Marksheet, Affidavit by the SDM and Aadhar Card."
+
+3. marksheet
+p: "marksheet", "provisional", "consolidate"
+r: "Marksheets/Provisional/Consolidated <br>For communication email to studentsupport@tips.edu.in."
+
+4. backlog
+p: "backlog certificate", "backlog"
+r: "Issuance of Backlog Certificate <br>Follow these instructions: <br>Write application to the Director + All Regular and Reappear marksheets or pdf result <br>Then submit it in the institute."
+
+5. noc
+p: "i need NOC", "non objection certificate", "certificate for internship"
+r: "Issuance of NOC for summer Internship: <br>Write an application in favor of the Director needs to be submitted / Shared with Student Support <br>Then submit it in the institute."
+
+6. provisional certificate
+p: "provisional certificate"
+r: "Issuance of provisional Certificate: <br>Write application to the Director + Marksheets(regular/ reappear) + pdf result <br>Then Submit it in the institute."
+
+// Accounts
+1. fee payment
+p: "pay fee", "how to pay fee", "fee payment"
+r: "For Fees Payment: <br>Visit our <a href = 'https://tips.edu.in' target ='_blank'>official site</a> and click on Pay fee."
+
+// HR
+1. job
+p: "I want a job", "teaching jobs", "vacancy", "non teaching jobs", "job application"
+r: "Teaching Jobs are available for: <br>B.COM, BBA, BCA, BA LLB, BA JMC <br>As: <br>Professor, Associate Professor, Assistant Professor <br><br>Non-Teaching Jobs include: <br>Accountant <br>HR / Admin Assistant <br>Examination <br>Receptionist <br>IT / Hardware engineer / Audio / Video Lab <br>Librarian <br><br>If Interested e-mail your resume at: tipsdwarkahrd@gmail.com <br>Along with this document - <a href='https://tips.edu.in/download_file/13.pdf' target=\"_blank\">Click Here</a> <br><br>For Further assistance Contact - 9315911710"
